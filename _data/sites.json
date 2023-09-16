@@ -970,7 +970,15 @@
             "assembla.com"
         ]
     },
-
+    {
+        "name": "ASUS",
+        "url": "https://privacy.asus.com/pi/global/privacy/",
+        "difficulty": "easy",
+        "notes": "Select \"ASUS/ ROG Account\" to delete your asus account.",
+        "domains": [
+            "asus.com"
+        ]
+    },
     {
         "name": "ASUS WebStorage",
         "url": "https://service.asuswebstorage.com/contactus/",
